@@ -18,7 +18,7 @@
          Python     
          C/C++      
          MATLAB     
-         Java       
+         Java      
 
 ## Contact
 
